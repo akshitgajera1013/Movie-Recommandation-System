@@ -1,5 +1,7 @@
 # 🎬 Movie Recommandation System
 
+Deployment Link :- https://movie-recommandation-system-gobnyektabw3vjyl9xtdrn.streamlit.app/
+
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python)
 ![NLP](https://img.shields.io/badge/Machine%20Learning-NLP%20%2F%20TF--IDF-orange?style=for-the-badge)
 ![Plotly](https://img.shields.io/badge/Data%20Viz-Plotly-purple?style=for-the-badge)
