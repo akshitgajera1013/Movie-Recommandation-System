@@ -11,6 +11,13 @@ Deployment Link :- https://movie-recommandation-system-gobnyektabw3vjyl9xtdrn.st
 
 Dataset :- https://drive.google.com/file/d/1kecbRmESYAfcWID0ekuO4esfMPNqNzAS/view?usp=drive_link
 
+
+#UI
+![Output](images/1.png)
+![Output](images/2.png)
+![Output](images/3.png)
+
+
 An advanced, monolithic Python application built for institutional-grade content recommendation and audience analytics. This system leverages a highly optimized **Content-Based Filtering Architecture** utilizing TF-IDF vectorization and Cosine Similarity mapping to generate highly relevant cinematic slates based on semantic overlap.
 
 **Note on Ultra-Lightweight Architecture:** This repository has been explicitly engineered to bypass standard GitHub large-file storage limits (25MB+). By utilizing reverse index-mapping, the system executes heavy vector math and string resolution without requiring a massive Pandas DataFrame to be stored in the cloud.
